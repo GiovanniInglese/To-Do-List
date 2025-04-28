@@ -1,1 +1,3 @@
 # To-Do-List
+This Project is a simple ToDO list that allows you to jot down tasks that you need to complete and allows you to check off and erase tasks as needed.  This project utilizes the languages css, HTML, and Javascript.  Teh application will also remeber your inputs upon closing and refreshing the application.  This project gave me more experience with CSS and HTML for the most part in designing the todo list and giving it style.  The javascript helped to save the data as well as put some action into the application.  It allows the application to react when you enter the input and it will display it on the screen and allow you to check off ore delete the task.  You can also add as many tasks as you want to the toDo list.  
+
